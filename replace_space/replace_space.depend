@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1389562349 source:c:\users\rajatg1989\p_projects\replace_space\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1390533999 source:c:\users\rajatg1989\p_projects\lru\main.cpp
+	<iostream>
+	<map>
+	<list>
+	<unordered_map>
+	<queue>
+	<stdio.h>
+	<cstring>
+	<limits>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1389894445 source:c:\users\rajatg1989\p_projects\string_perms\main.cpp
+	<iostream>
+	<vector>
+	<sstream>
+

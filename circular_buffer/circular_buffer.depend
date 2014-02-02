@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1390174601 source:c:\users\rajatg1989\p_projects\circular_buffer\main.cpp
+	<iostream>
+	<deque>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+

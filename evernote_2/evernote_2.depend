@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1390237911 source:c:\users\rajatg1989\p_projects\evernote_2\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<algorithm>
+	<string>
+
